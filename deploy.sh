@@ -1,8 +1,8 @@
 #!/bin/sh
 
 FUNCTION="bigqueryImport"
-PROJECT="my-project-name"
-BUCKET="my-bucket-name"
+PROJECT="student-00331"
+BUCKET="bq-bucket-json"
 
 # set the gcloud project
 gcloud config set project ${PROJECT}
